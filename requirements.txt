@@ -34,3 +34,4 @@ unidecode
 decorator >= 3.3.2 # (version required by Pylons 1.0)
 simplejson >= 2.2.1 # (version required by Pylons 1.0)
 
+waitress>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
